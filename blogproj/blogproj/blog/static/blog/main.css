@@ -1,7 +1,7 @@
 body {
      /* background: linear-gradient(to bottom right,#002f4b, #dc4225); */
     /* color: #333333;  */
-    background-color: rgb(56, 56, 56);    /* background: linear-gradient(to bottom right,#002f4b,#dc4225); */
+    background-color: rgba(56, 56, 56, 0.912);    /* background: linear-gradient(to bottom right,#002f4b,#dc4225); */
     margin-top: 5rem;
     background-size: contain;
     background-repeat: no-repeat;
