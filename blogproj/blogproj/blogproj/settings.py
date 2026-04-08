@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-d*_@dvi^g6%!&dln=76=l1ok4=hl+$clzu&&^dz472z^!80r+h
 DEBUG = True
 
 ALLOWED_HOSTS = ["microblogging-v82x.onrender.com"]
-CSRF_TRUSTED_ORIGINS = ["microblogging-v82x.onrender.com", "https://microblogging-v82x.onrender.com"]
+CSRF_TRUSTED_ORIGINS = ["https://microblogging-v82x.onrender.com"]
 
 # Application definition
 
