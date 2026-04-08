@@ -7,8 +7,7 @@ A full-featured blog web app built with Django, Bootstrap 4, and a custom neon-t
 - User registration, login, and logout
 - Create, read, update, and delete blog posts
 - User profile with avatar upload
-- Light / dark theme toggle (persisted via localStorage)
-- Neon animated navbar buttons
+- Light / dark theme toggle
 - Responsive layout with Bootstrap 4
 - Django admin panel
 
